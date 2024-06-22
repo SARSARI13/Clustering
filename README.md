@@ -6,7 +6,7 @@ The aim of this project is to train and test a clustering model using training a
 
 ## Prerequisites
 
-- **Python:** The script has been developed and tested with Python 3.8.2.
+- **Python:** The script has been developed and tested with Python 3.8.2
 - **Libraries:** The following libraries are required:
   - numpy 1.24.4
   - scikit-learn 1.3.2
